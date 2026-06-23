@@ -1,4 +1,4 @@
-﻿# Git GitHub
+# Git GitHub
 
 > commands Git GitHub
 
@@ -8,11 +8,11 @@
 
 ## Como rodar
 
-### PrÃ©-requisitos
+### Pré-requisitos
 
 - _A definir_
 
-### InstalaÃ§Ã£o
+### Instalação
 
 ```bash
 git clone https://github.com/salomaocalheiros/Git-GitHub.git
@@ -25,13 +25,14 @@ cd Git-GitHub
 Git-GitHub/
 ├── command.txt
 ├── package.json
+├── README.md
 └── yarn-error.log
 ```
 
-## ContribuiÃ§Ã£o
+## Contribuição
 
-ContribuiÃ§Ãµes sÃ£o bem-vindas. Abra uma issue ou envie um pull request.
+Contribuições são bem-vindas. Abra uma issue ou envie um pull request.
 
 ---
 
-**Autor:** [SalomÃ£o Calheiros](https://github.com/salomaocalheiros)
+**Autor:** [Salomão Calheiros](https://github.com/salomaocalheiros)
